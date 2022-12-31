@@ -1,7 +1,7 @@
 Web Scraper using Python with Helium to:
 
 -   get all matches data of a Dofus KTA tournament
--   generate a excel file.
+-   generate an Excel file.
 
 Result:
 ![Excel Result](img/Excel_Result.png)
