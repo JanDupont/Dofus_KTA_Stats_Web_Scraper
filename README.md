@@ -8,6 +8,7 @@ Result:
 
 ## Todo
 
+-   [ ] Colors in Excel result
 -   [ ] Performance
 -   [ ] reduce sleeps
 -   [ ] Progress Bar Terminal ?
